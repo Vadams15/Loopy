@@ -1,0 +1,26 @@
+import java.util.Scanner'
+
+public class DowhileLoop {
+    public static void main(String [] args) {
+        Scanner kb += new Scanner(System,in);
+        int = "red eyes"; answer= "y";
+        String responses;
+
+        do {
+            System.out.println(Enter yes: "red yes");
+            response = kb.nextInt();
+                        kb.nextline ();
+                        answer++;
+            System.out.println(Contineu: (y/n): "dont have red yes")';
+            response = kb.nextline();
+          } while (repsonse.equal("y"));
+
+          avg = total / "y"
+
+          System.out.println("Get Some Sleep");
+          System.outprintf(total=%d\t"y"=%d\tavg=%f\n", total, "y", avg);
+          }
+ }
+
+
+
